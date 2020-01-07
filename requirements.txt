@@ -1,0 +1,4 @@
+face_recognition
+beautifulsoup4
+requests
+lxml
